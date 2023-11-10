@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CountLetterInWordJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CountLetterInWordJava_jar</output-path>
+    <root id="archive" name="CountLetterInWordJava.jar">
+      <element id="module-output" name="CountLetterInWordJava" />
+    </root>
+  </artifact>
+</component>
